@@ -1,7 +1,5 @@
 # Emma Strand
 
-*Ph.D. Candidate at the University of Rhode Island*  
-
 I'm a fifth year Ph.D. candidate working with Dr. Hollie Putnam at the University of Rhode Island. My dissertation research investigates the effects of environmental stimuli (e.g., elevated temperature and pCO2) on organismal multivariate physiological and genomic state. 
 
 View my CV, Google Scholar page, and other links on my [LinkTree here](https://linktr.ee/emmastrand). I use [open lab notebooks](https://emmastrand.github.io/EmmaStrand_Notebook) and GitHub to make data and code openly accessible. 
