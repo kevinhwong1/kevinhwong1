@@ -18,8 +18,13 @@ Chapter 3: Epigenetic mechanisms and symbiont communities underlying tolerant an
 
 DNA Methylation analysis workflows: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-08-24-DNA-Methylation-Analysis-Central-Working-Document.md) 
 
-Microbial analysis workflows: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-22-16S-Analysis-Central-Working-Document.md)
+Genome functional annotation workflow: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-11-02-M.capitata-Genome-v3-Functional-Annotation.md)
 
+Gene Expression RNASeq workflow: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-03-KBay-Bleaching-Pairs-RNASeq-Pipeline-Analysis.md)
+
+16S Microbial analysis workflows: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-22-16S-Analysis-Central-Working-Document.md)
+
+ITS2 Symbiont community analysis workflow: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-07-05-Holobiont-Integration-ITS2-Pipeline-2022.md)
 
 
 ### Business Card
