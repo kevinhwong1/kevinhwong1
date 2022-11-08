@@ -27,6 +27,7 @@ ITS2 Symbiont community analysis workflow: [link](https://github.com/emmastrand/
 
 ### Business Card
 
+![card](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/strand-card.PNG?raw=true)
 
 
 
