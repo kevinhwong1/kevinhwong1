@@ -1,34 +1,44 @@
-# Emma Strand
+# Kevin H. Wong, PhD
 
-I'm a fifth year Ph.D. candidate working with Dr. Hollie Putnam at the University of Rhode Island. My dissertation research investigates the effects of environmental stimuli (e.g., elevated temperature and pCO2) on organismal multivariate physiological and genomic state. 
+I am a postdoctoral researcher at the University of Miami Rosentiel School for Atmospheric, Marine, and Earth Sciences in the Cnidarian Immunity Lab. My research uses physiological and molecular approaches to understand the impacts of climate change on marine invertebrates. 
 
-View my CV, Google Scholar page, and other links on my [LinkTree here](https://linktr.ee/emmastrand). I use [open lab notebooks](https://emmastrand.github.io/EmmaStrand_Notebook) and GitHub to make data and code openly accessible. 
+In my repository, have have pipelines and examples for the following analyses:
 
-### Dissertation Chapters 
+### Physiology
+* Respirometry
+* Total Protein
+* Total Carbohydrate
+* Cholorophyll
+* Color Score
+* Endosymbiont Cell Density
 
-Chapter 1: Coral species loss and physiological legacy effects are elicited by extended marine heatwave and projected ocean acidification conditions. [Github repository](https://github.com/hputnam/Acclim_Dynamics)
+### Metabolomics
+* Pre-data Processing
+* PLSDA and VIP selection
+* WCNA (Weighted Correlational Network Analysis)
+* Enrichment Analysis with MetaboAnalyst
 
-Chapter 2: Coral host and Symbiodiniaceae epigenetic and gene expression patterns under thermal and ocean acidification stress. [Github repository](https://github.com/emmastrand/Acclim_Dynamics_molecular)
+### Amplicon Sequencing
+* ITS2 amplicon sequencing (Symbiondinaceae identification)
+* 16s rRNA amplicon seqeuncing (Bacterial identification)
 
-Chapter 3: Epigenetic mechanisms and symbiont communities underlying tolerant and non-tolerant phenotypes in coral. [Github repository](https://github.com/hputnam/HI_Bleaching_Timeseries/tree/main/Dec-July-2019-analysis)
+### Whole Genome Bisulfite Sequencing
+* Pre-data processing and methylation calling
+* Genome Feature Analysis
+* Differentially Methylated Genes (DMGs)
+* WGCNA (Weighted Correlational Gene Network Analysis)
 
-### Bioinformatic work
+### Genome annotations
+* Structural Genome Annotation
+* Functional Genome Annotation
 
-DNA Methylation analysis workflows: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-08-24-DNA-Methylation-Analysis-Central-Working-Document.md) 
+### Tagseq
+* Pre-data processing 
+* Differentially Expressed Genes (DEGs)
+* WGCNA (Weighted Correlational Gene Network Analysis)
 
-Genome functional annotation workflow: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-11-02-M.capitata-Genome-v3-Functional-Annotation.md)
+### Single-cell RNAseq
+* Cell Ranger (Data QC and Alignment to the genome)
+* Seurat (Visualization and cell cluster markers)
 
-Gene Expression RNASeq workflow: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-03-KBay-Bleaching-Pairs-RNASeq-Pipeline-Analysis.md)
-
-16S Microbial analysis workflows: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-22-16S-Analysis-Central-Working-Document.md)
-
-ITS2 Symbiont community analysis workflow: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-07-05-Holobiont-Integration-ITS2-Pipeline-2022.md)
-
-
-### Business Card
-
-![card](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/strand-card.PNG?raw=true)
-
-
-
-
+View my CV, Google Scholar page, and other links on my [website](https://sites.google.com/view/kevin-h-wong/home/). I use [open lab notebooks](https://kevinhwong1.github.io/KevinHWong_Notebook/) and GitHub to make data and code openly accessible. 
