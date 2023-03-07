@@ -1,6 +1,6 @@
 # Kevin H. Wong, PhD
 
-I am a postdoctoral researcher at the University of Miami Rosentiel School for Atmospheric, Marine, and Earth Sciences in the Cnidarian Immunity Lab. My research uses physiological and molecular approaches to understand the impacts of climate change on marine invertebrates. 
+I am a postdoctoral researcher at the University of Miami Rosenstiel School for Atmospheric, Marine, and Earth Sciences in the Cnidarian Immunity Lab. My research uses physiological and molecular approaches to understand the impacts of climate change on marine invertebrates. 
 
 View my CV, Google Scholar page, and other links on my [website](https://sites.google.com/view/kevin-h-wong/home/). I use [open lab notebooks](https://kevinhwong1.github.io/KevinHWong_Notebook/) and GitHub to make data and code openly accessible. 
 
