@@ -10,7 +10,7 @@ In my repository, have have pipelines and examples for the following analyses:
 * Respirometry
 * Total Protein
 * Total Carbohydrate
-* Cholorophyll
+* Chlorophyll
 * Color Score
 * Endosymbiont Cell Density
 
