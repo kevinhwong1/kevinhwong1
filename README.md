@@ -8,10 +8,25 @@ In my repository, have have pipelines and examples for the following analyses:
 
 ### Physiology
 * Respirometry
+  * OXY10 PreSens
+    * Whole coral adult colonies
+    * Coral fragments
+  * SDR PreSens
+    * Coral larvae
+    * Coral sperm
+    * Fish embryos
 * Total Protein
+  * Protocol (and troubleshooting)  
+  * Coral adult 
+  * Coral larvae
 * Total Carbohydrate
+  * Protocol
+  * Coral Adult
 * Chlorophyll
+  * Protocol
+  * 
 * Color Score
+  * Protocol
 * Endosymbiont Cell Density
 
 ### Metabolomics
@@ -22,11 +37,19 @@ In my repository, have have pipelines and examples for the following analyses:
 
 ### Amplicon Sequencing
 * ITS2 amplicon sequencing (Symbiondinaceae identification)
+  * Symportal
+  * Statistical Analysis and Plotting
 * 16s rRNA amplicon seqeuncing (Bacterial identification)
+  * QIIME2
+  * Statistical Analysis and Plotting
 
 ### Whole Genome Bisulfite Sequencing
 * Pre-data processing and methylation calling
+  * Methylseq troubleshooting
+  * Methylseq and Gene Filtering
 * Genome Feature Analysis
+  * HPC analysis
+  * Statistical Analysis and Plotting
 * Differentially Methylated Genes (DMGs)
 * WGCNA (Weighted Correlational Gene Network Analysis)
 
@@ -40,5 +63,5 @@ In my repository, have have pipelines and examples for the following analyses:
 * WGCNA (Weighted Correlational Gene Network Analysis)
 
 ### Single-cell RNAseq
-* Cell Ranger (Data QC and Alignment to the genome)
-* Seurat (Visualization and cell cluster markers)
+* [Cell Ranger (Data QC and Alignment to the genome)](https://github.com/kevinhwong1/Mnemi_Phagocyte/blob/main/scripts/scRNAseq/1_CellRanger_scRNAseq.md)
+* [Seurat (Visualization and cell cluster markers)](https://github.com/kevinhwong1/Mnemi_Phagocyte/blob/main/scripts/scRNAseq/2_Seurat.md)
